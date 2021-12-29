@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "jnjn ww",
+      "email": "jnjn",
+      "mobile": "jnjn",
+      "address": "jnjn",
+      "services": "jnjn"
+    }
+  ],
+  "signup": [
+    {
+      "name": "mukul",
+      "email": "j@gmail.com",
+      "mobile": "98987",
+      "password": "",
+      "id": 1
+    },
+    {
+      "name": "mukul",
+      "email": "m@gmail.com",
+      "mobile": "8987987",
+      "password": "12",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
